@@ -1,0 +1,2 @@
+this is test file a.txt, we are going to stage this file. and one more file b.txt.
+
